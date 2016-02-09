@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "superteece@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Nethunter Control",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Nethunter Control",
+    "uuid": "5cd781de-63ba-4c76-aa46-a7c687957733",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
